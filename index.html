@@ -8,7 +8,7 @@
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link rel="stylesheet" href="style.css">
-  <script src="main.js"></script>
+  <script src="main.js" defer></script>
 
   <title>Frontend Mentor | Interactive rating component</title>
 
@@ -37,20 +37,20 @@
         <p class="rounded">5</p>
       </span>
 
-      <a href="#" id="button">SUBMIT</a>
+      <a href="#" id="button">Submit</a>
     </section>
 
     <!-- Rating state end -->
 
     <!-- Thank you state start -->
 
-    <section class="card" id="thank-card">
+    <section class="card hidden" id="thank-card">
 
       <img src="./images/illustration-thank-you.svg" alt="">
 
-      <p>You selected <span id="score"></span> out of 5</p>
+      <p>You selected <span id="selected-score"></span> out of 5</p>
 
-      <h1>Thank you! </h1>
+      <h1>Thank you!</h1>
 
       <span>
         <p>We appreciate you taking the time to give a rating. </p>
@@ -65,7 +65,7 @@
 
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-    Coded by <a href="#">Your Name Here</a>.
+    Coded by <a href="https://github.com/tabascum" target="_blank">Vasco Marques</a>.
   </div>
 </body>
 
