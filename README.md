@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tabascum/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://tabascum-interactive-component.netlify.app/)
+- Solution URL: https://github.com/tabascum/interactive-rating-component
+- Live Site URL: https://tabascum-interactive-component.netlify.app/
 
 ## My process
 
@@ -50,4 +50,4 @@ To manipulate de DOM, I picked JS event listeners and methods to iterate the rat
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tabascum)
+- Frontend Mentor - https://www.frontendmentor.io/profile/tabascum
