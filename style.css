@@ -128,19 +128,19 @@ h1 {
   width: 50%;
 }
 
-#thank-card > span {
+#thank-card > article {
   display: flex;
   flex-direction: column;
   justify-content: center;
   font-size: 0.85rem;
 }
 
-#thank-card > span:nth-child(1) {
+#thank-card > article:nth-child(1) {
   text-align: center;
   color: var(--orange);
 }
 
-#thank-card > span:nth-child(4) {
+#thank-card > article:nth-child(4) {
   line-height: 1.2rem;
   text-align: center;
   padding-inline: 0.5rem;
