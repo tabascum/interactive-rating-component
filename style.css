@@ -149,6 +149,8 @@ h1 {
 /* Footer */
 
 .attribution {
+  display: flex;
+  gap: 0.5rem;
   font-size: 11px;
   text-align: center;
 }
